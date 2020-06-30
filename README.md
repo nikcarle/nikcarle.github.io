@@ -1,20 +1,4 @@
 ## Welcome to my GitHub Pages
 
-### Markdown
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Purpose
+This is to display all my Repositories and explain each as my journey to learning such technologies as Python, Powershell, Ansible, Docker, Kubernetes and many more.
